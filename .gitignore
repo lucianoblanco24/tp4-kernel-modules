@@ -1,0 +1,11 @@
+# Binarios y objetos
+*.ko
+*.o
+*.mod
+*.mod.c
+*.order
+*.symvers
+
+# Archivos ocultos de compilación
+.*.cmd
+.tmp_versions/
